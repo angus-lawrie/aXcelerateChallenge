@@ -11,7 +11,7 @@ const meta: Meta<typeof SearchField> = {
     docs: {
       description: {
         component:
-          'The `SearchField` component lets users search and filter users by name, and view them grouped by attendance status.',
+          'The `SearchField` component lets users search and filter users by name, and view them grouped by attendance status. The component takes an array of Users as an arument, a boolean which toggles emails being displayed, and a desired width of the prop.',
       },
     },
   },

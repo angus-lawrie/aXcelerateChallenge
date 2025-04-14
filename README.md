@@ -6,7 +6,7 @@ A reusable, documented, and tested React SearchField component built with Styled
 ## 🛠 Installation
 
 ```bash
-npm install
+npm install git+https://github.com/angus-lawrie/aXcelerateChallenge.git
 ```
 
 ## 🚀 Running the Project
